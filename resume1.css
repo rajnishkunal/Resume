@@ -258,8 +258,8 @@ section:nth-child(2n + 1) {
 }
 
 .my-details-info-container span {
-    margin-left: 0.4rem;
-    font-size: 0.95rem;
+   
+    font-size: 0.8rem;
 }
 
 .my-details-info-container i {
